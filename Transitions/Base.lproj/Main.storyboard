@@ -25,7 +25,7 @@
                     </connections>
                 </customObject>
             </objects>
-            <point key="canvasLocation" x="-2214.75" y="188"/>
+            <point key="canvasLocation" x="-2341" y="86"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="WRf-Uj-Hry">
@@ -38,7 +38,7 @@
                     <view key="view" contentMode="scaleToFill" id="K0J-X6-2Yh">
                         <rect key="frame" x="0.0" y="0.0" width="1024" height="768"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.96470594409999999" green="0.53333336109999996" blue="0.082352943720000002" alpha="1" colorSpace="deviceRGB"/>
                         <gestureRecognizers/>
                         <connections>
                             <outletCollection property="gestureRecognizers" destination="Toj-yP-ZdO" appends="YES" id="Fdo-h0-bGm"/>
@@ -59,7 +59,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="-1195.5" y="164"/>
+            <point key="canvasLocation" x="-1030" y="86"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
@@ -143,7 +143,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <variation key="default">
                             <mask key="subviews">
                                 <exclude reference="0Mq-Y5-c01"/>
@@ -170,7 +170,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-252.75" y="164"/>
+            <point key="canvasLocation" x="187" y="86"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="ard-ff-9Ih">
@@ -199,7 +199,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.076102321109999996" green="1" blue="0.38036379710000001" alpha="1" colorSpace="calibratedRGB"/>
                         <variation key="default">
                             <mask key="subviews">
                                 <exclude reference="Das-zr-Ju7"/>
@@ -214,7 +214,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pRP-8w-tCs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="666" y="164"/>
+            <point key="canvasLocation" x="1369" y="86"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
