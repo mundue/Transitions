@@ -13,6 +13,4 @@ Basic animated transitions, shows how to easily implement select animations:
 * Sandstorm: sand slides in from left and fades
 * Snowstorm: snow drops in from top and fades
 
-## Branch: interactive
-
-Adds a pan gesture recognizer to interactively control some of the transitions.
+Includes a pan gesture recognizer to interactively control some of the transitions.
