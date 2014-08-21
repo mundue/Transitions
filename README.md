@@ -1,8 +1,6 @@
 # Transitions
 
-An example app showing several ways to customize UIViewController transitions.
-
-## Branch: master
+#### An example app showing several ways to customize UIViewController transitions.
 
 Basic animated transitions, shows how to easily implement select animations: 
 
